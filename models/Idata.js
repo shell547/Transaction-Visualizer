@@ -27,7 +27,7 @@ const initialDataSchema = new mongoose.Schema({
         required: true
     },
     sold: {
-        type: Boolean,
+        type: String,
         required: true
     },
     dateOfSale: {

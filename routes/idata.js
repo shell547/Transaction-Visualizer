@@ -82,6 +82,7 @@ async function getInitialData() {
             month: month
         });
         iData.save();
+        
       
       // console.log(monthNames[month-1]);
     }
